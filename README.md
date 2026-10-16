@@ -42,7 +42,10 @@ python3 homograph_detector.py "рaypal.com"        # domain Unicode
 python3 homograph_detector.py xn--aypal-uye.com   # domain Punycode
 ```
 
-**Mode demo (5 contoh domain populer):**
+<img width="709" height="735" alt="homograph" src="https://github.com/user-attachments/assets/f198b114-a99f-4fd2-9f71-6614790c8be7" />
+
+
+**Mode demo :**
 ```bash
 python3 homograph_detector.py
 ```
